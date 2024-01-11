@@ -1,0 +1,7 @@
+sudo apt-get install linux-tools-common linux-tools-generic linux-cloud-tools-generic linux-cloud-tools-generic linux-tools-generic libbpf-dev libpcre3-dev curl g++ cmake git libcpprest-dev libssl-dev libcjson-dev 
+
+cd Evaluation
+
+make
+
+./Evaluation
